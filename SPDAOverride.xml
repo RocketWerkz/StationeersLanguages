@@ -1,0 +1,374 @@
+﻿<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>EN</Code>
+  <ThingPageOverride>
+   <SPDAThingOverideData>
+      <ParentListKey>Motherboard</ParentListKey>
+      <ThingName>MotherboardComms</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Motherboards</CustomCategory>
+      </SPDAThingOverideData>
+
+    <SPDAThingOverideData>
+     <ParentListKey>Motherboard</ParentListKey>
+      <ThingName>MotherboardSorter</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Motherboards</CustomCategory>
+      </SPDAThingOverideData>
+
+    <SPDAThingOverideData>
+     <ParentListKey>Motherboard</ParentListKey>
+      <ThingName>MotherboardManufacturing</ThingName>
+      <HideInSPDA>true</HideInSPDA>
+      <CustomCategory>Motherboards</CustomCategory>
+      </SPDAThingOverideData>
+
+      <SPDAThingOverideData>
+     <ParentListKey>Motherboard</ParentListKey>
+      <ThingName>MotherboardProgrammableChip</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Motherboards</CustomCategory>
+      </SPDAThingOverideData>
+
+      <SPDAThingOverideData>
+     <ParentListKey>Motherboard</ParentListKey>
+      <ThingName>MotherboardLogic</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Motherboards</CustomCategory>
+      </SPDAThingOverideData>
+
+<!-- Adding tables to furniture -->
+
+ <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>KitchenTableTall</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+  <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>KitchenTableSimpleTall</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+        <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>KitchenTableSimpleShort</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+        <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>KitchenTableShort</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+  <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>StructureSmallTableThickSingle</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+  <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>StructureSmallTableThickDouble</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+       <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>StructureSmallTableRectangleSingle</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+       <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>StructureSmallTableRectangleDouble</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+ <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>StructureSmallTableThickDouble</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+      <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>StructureSmallTableDinnerSingle</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+    
+     <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>StructureSmallTableBacklessSingle</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+      <SPDAThingOverideData>
+     <ParentListKey>Furnitures</ParentListKey>
+      <ThingName>StructureSmallTableBacklessDouble</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+<!-- Adding tables to structures -->
+
+      <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>KitchenTableTall</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+  <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>KitchenTableSimpleTall</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+        <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>KitchenTableSimpleShort</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+        <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>KitchenTableShort</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+  <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>StructureSmallTableThickSingle</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+  <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>StructureSmallTableThickDouble</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+       <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>StructureSmallTableRectangleSingle</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+       <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>StructureSmallTableRectangleDouble</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+ <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>StructureSmallTableThickDouble</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+      <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>StructureSmallTableDinnerSingle</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+    
+     <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>StructureSmallTableBacklessSingle</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+      <SPDAThingOverideData>
+     <ParentListKey>Structures</ParentListKey>
+      <ThingName>StructureSmallTableBacklessDouble</ThingName>
+      <HideInSPDA>false</HideInSPDA>
+      <CustomCategory>Tables</CustomCategory>
+      </SPDAThingOverideData>
+
+<!-- Stuff below here is the hidden stuff -->
+    <SPDAThingOverideData>
+      <ThingName>StructureSpawnPoint</ThingName>
+      <HideInSPDA>true</HideInSPDA>
+    </SPDAThingOverideData>
+    
+    <SPDAThingOverideData>
+      <ThingName>ItemWasteIngot</ThingName>
+      <HideInSPDA>true</HideInSPDA>
+    </SPDAThingOverideData>
+
+    <SPDAThingOverideData>
+      <ThingName>ItemMiningBeltAdvanced</ThingName>
+      <HideInSPDA>true</HideInSPDA>
+    </SPDAThingOverideData>
+
+    <SPDAThingOverideData>
+      <ThingName>StructureCompositeWallRound</ThingName>
+      <HideInSPDA>true</HideInSPDA>
+    </SPDAThingOverideData>
+
+    <SPDAThingOverideData>
+      <ThingName>StructureModularRocketAutonomous</ThingName>
+      <HideInSPDA>true</HideInSPDA>
+    </SPDAThingOverideData>
+
+    <SPDAThingOverideData>
+      <ThingName>StructureTransformerMedium(Reversed)</ThingName>
+      <HideInSPDA>true</HideInSPDA>
+    </SPDAThingOverideData>
+
+    <SPDAThingOverideData>
+      <ThingName>StructureOrganicsPrinter</ThingName>
+      <HideInSPDA>true</HideInSPDA>
+    </SPDAThingOverideData>
+
+
+    <SPDAThingOverideData>
+      <ThingName>ItemKitOrganicsPrinter</ThingName>
+      <HideInSPDA>true</HideInSPDA>
+    </SPDAThingOverideData>
+
+<!-- End Hidden Stuff -->
+    </ThingPageOverride>
+
+    <HomePageButtonsOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>OreCategoryKey</CategoryName>
+        <ThingNameForImage>ItemCopperOre</ThingNameForImage>
+        <LinkedPageKey>OrePage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>IngotsCategoryKey</CategoryName>
+        <ThingNameForImage>ItemStelliteIngot</ThingNameForImage>
+        <LinkedPageKey>IngotPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>FabricatorCategoryKey</CategoryName>
+        <ThingNameForImage>ToolPrinterMod</ThingNameForImage>
+        <LinkedPageKey>FabricatorPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>ConstructionKitsCategoryKey</CategoryName>
+        <ThingNameForImage>ItemKitSleeper</ThingNameForImage>
+        <LinkedPageKey>KitPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>GasesCategoryKey</CategoryName>
+        <ThingNameForImage>ItemGasFilterOxygenM</ThingNameForImage>
+        <LinkedPageKey>GasPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>ReagentsCategoryKey</CategoryName>
+        <ThingNameForImage>ItemReagentMix</ThingNameForImage>
+        <LinkedPageKey>ReagentPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>AtmopshericsCategoryKey</CategoryName>
+        <ThingNameForImage>ItemKitPipe</ThingNameForImage>
+        <LinkedPageKey>AtmosphericPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>PowerCategoryKey</CategoryName>
+        <ThingNameForImage>ItemCableCoil</ThingNameForImage>
+        <LinkedPageKey>ElectronicPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>LogicCategoryKey</CategoryName>
+        <ThingNameForImage>ItemIntegratedCircuit10</ThingNameForImage>
+        <LinkedPageKey>LogicUnitPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>StructureCategoryKey</CategoryName>
+        <ThingNameForImage>ItemIronFrames</ThingNameForImage>
+        <LinkedPageKey>StructurePage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>OrganicsCategoryKey</CategoryName>
+        <ThingNameForImage>ItemPumpkin</ThingNameForImage>
+        <LinkedPageKey>OrganicPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+        <SPDAHomePageButtonOverride>
+            <CategoryName>RocketCategoryKey</CategoryName>
+            <ThingNameForImage>StructurePumpedLiquidEngine</ThingNameForImage>
+            <LinkedPageKey>AutomatedRocketPage</LinkedPageKey>
+        </SPDAHomePageButtonOverride>
+
+        <SPDAHomePageButtonOverride>
+            <CategoryName>GeneticsCategoryKey</CategoryName>
+            <ThingNameForImage>AppliancePlantGeneticAnalyzer</ThingNameForImage>
+            <LinkedPageKey>GeneticsPage</LinkedPageKey>
+        </SPDAHomePageButtonOverride>
+
+        <SPDAHomePageButtonOverride>
+            <CategoryName>TradingCategoryKey</CategoryName>
+            <ThingNameForImage>StructureSatelliteDish</ThingNameForImage>
+            <LinkedPageKey>TradingPage</LinkedPageKey>
+        </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>HandToolsCategoryKey</CategoryName>
+        <ThingNameForImage>ItemDrill</ThingNameForImage>
+        <LinkedPageKey>ToolPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>CartidgeCategoryKey</CategoryName>
+        <ThingNameForImage>CartridgeNetworkAnalyser</ThingNameForImage>
+        <LinkedPageKey>CartridgePage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>PersonalCategoryKey</CategoryName>
+        <ThingNameForImage>ItemSpaceHelmet</ThingNameForImage>
+        <LinkedPageKey>ClothingPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>FurnitureCategoryKey</CategoryName>
+        <ThingNameForImage>StructureChair</ThingNameForImage>
+        <LinkedPageKey>FurniturePage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+      <SPDAHomePageButtonOverride>
+        <CategoryName>ImportExportCategoryKey</CategoryName>
+        <ThingNameForImage>StructureChuteJunction</ThingNameForImage>
+        <LinkedPageKey>ImportExportPage</LinkedPageKey>
+      </SPDAHomePageButtonOverride>
+
+
+    </HomePageButtonsOverride>
+</Language>
